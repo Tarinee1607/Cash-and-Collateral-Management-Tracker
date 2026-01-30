@@ -37,11 +37,6 @@ It helps risk and operations teams quickly identify:
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
 ## 🎯 Outcome
 This dashboard enables faster risk monitoring, improves operational decision-making, and provides clear visibility into collateral inefficiencies.
 
