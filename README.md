@@ -1,4 +1,4 @@
-# Cash & Collateral Management Dashboard
+# Cash & Collateral Management Dashboard Changes
 
 ## 📌 Project Overview
 This project is a **Power BI dashboard** designed to monitor daily MTM exposure, collateral requirements, collateral posted, and breach analysis across counterparties.
